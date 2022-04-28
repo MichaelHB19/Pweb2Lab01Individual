@@ -6,5 +6,8 @@ public class HolaMundo
 
 		//Bienvenido al curso
 		System.out.println("Bienvenido al curso");
+		
+		//Probando el compilador
+		System.out.println("Probando el compilador de java");
 	}
 }
